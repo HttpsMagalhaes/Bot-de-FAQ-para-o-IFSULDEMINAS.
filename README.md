@@ -10,18 +10,18 @@ O bot está em fase inicial de desenvolvimento e, por questões de tempo, será 
 
 ### Funcionalidades:
 
-Respostas instantâneas a perguntas frequentes.
-Compreensão precisa do contexto das perguntas.
-Abordagem abrangente de diversos tópicos.
-Interface amigável e personalizável.
++ Respostas instantâneas a perguntas frequentes.
++ Compreensão precisa do contexto das perguntas.
++ Abordagem abrangente de diversos tópicos.
++ Interface amigável e personalizável.
 
 ### Benefícios:
 
-Redução do tempo de espera e otimização do tempo da equipe.
-Melhoria na experiência do usuário com respostas rápidas e precisas.
-Acessibilidade 24/7.
-Redução de custos operacionais.
-Promoção da inclusão com atendimento em diferentes idiomas.
++ Redução do tempo de espera e otimização do tempo da equipe.
++ Melhoria na experiência do usuário com respostas rápidas e precisas.
++ Acessibilidade 24/7.
++ Redução de custos operacionais.
++ Promoção da inclusão com atendimento em diferentes idiomas.
 
 ### Impacto:
 
@@ -29,10 +29,10 @@ O bot de FAQ tem o potencial de transformar a forma como o IFSULDEMINAS atende s
 
 ### Futuras Implementações:
 
-Integração com sistemas existentes do IFSULDEMINAS.
-Implementação de recursos adicionais, como geração de texto, tradução e sumarização.
-Atualização periódica do conjunto de dados e do modelo.
-Implementação de medidas de segurança e privacidade.
++ Integração com sistemas existentes do IFSULDEMINAS.
++ Implementação de recursos adicionais, como geração de texto, tradução e sumarização.
++ Atualização periódica do conjunto de dados e do modelo.
++ Implementação de medidas de segurança e privacidade.
 
 ### Conclusão:
 
